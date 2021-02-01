@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;     
     font-family: 'Roboto Mono', monospace;
+    text-decoration: none;
 }
 
 #hero {
@@ -83,3 +84,14 @@
     }
   }
   
+
+  /* SECCION SOBRE MI*/
+
+  #aboutme {
+      margin-top: 90px;
+  }
+
+ 
+a:visited {
+    color: white;
+}
