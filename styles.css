@@ -87,11 +87,15 @@
 
   /* SECCION SOBRE MI*/
 
-  #aboutme {
+  .space {
       margin-top: 90px;
   }
 
  
 a:visited {
     color: white;
+}
+
+.space2 {
+  margin-top: 70px;
 }
