@@ -4,7 +4,6 @@
     padding: 0;     
     font-family: 'Roboto Mono', monospace;
     text-decoration: none;
-    box-sizing: content-box;
 }
 
 #hero {
@@ -103,7 +102,7 @@ a:visited {
 
 /*CONTACT*/
 
-.text-muted {
+.text-mute {
   color: #6c757d !important;
 }
 
@@ -129,4 +128,22 @@ a:link, a:visited, a:active {
 
 i:hover {
   color: #34b7a7;
+}
+
+
+i.whatsapp {
+  color: #4FCE5D;
+}
+
+#wa:hover{
+  color: #34b7a7;
+}
+
+#wa{
+  color: black;
+}
+
+
+#iconos {
+margin: 0;
 }
