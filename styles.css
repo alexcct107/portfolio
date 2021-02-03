@@ -4,6 +4,7 @@
     padding: 0;     
     font-family: 'Roboto Mono', monospace;
     text-decoration: none;
+    box-sizing: content-box;
 }
 
 #hero {
@@ -98,4 +99,34 @@ a:visited {
 
 .space2 {
   margin-top: 70px;
+}
+
+/*CONTACT*/
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+a:link, a:visited, a:active {
+  text-decoration:none;
+  color: white;
+}
+
+#divider {
+  border: 3px solid;
+  border-radius: 5px;
+  width:100px;
+  margin: auto
+}
+
+#black {
+  color: black;
+}
+
+#black:hover{
+  color: #34b7a7;
+}
+
+i:hover {
+  color: #34b7a7;
 }
